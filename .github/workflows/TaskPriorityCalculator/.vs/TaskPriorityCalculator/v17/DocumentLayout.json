@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0411\u0420\u0423\\3 \u041A\u0423\u0420\u0421\\6 \u0421\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0421\\\u043B\u044011\\OS_20\\TaskPriorityCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4972A662-9976-4D05-99ED-1A502F1E2E57}|NunitTesting\\NunitTesting.csproj|D:\\\u0411\u0420\u0423\\3 \u041A\u0423\u0420\u0421\\6 \u0421\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0421\\\u043B\u044011\\OS_20\\TaskPriorityCalculator\\nunittesting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4972A662-9976-4D05-99ED-1A502F1E2E57}|NunitTesting\\NunitTesting.csproj|solutionrelative:nunittesting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4972A662-9976-4D05-99ED-1A502F1E2E57}|NunitTesting\\NunitTesting.csproj|d:\\\u0431\u0440\u0443\\3 \u043A\u0443\u0440\u0441\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043E\u0441\\\u043B\u044011\\os_20\\taskprioritycalculator\\nunittesting\\ddt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4972A662-9976-4D05-99ED-1A502F1E2E57}|NunitTesting\\NunitTesting.csproj|solutionrelative:nunittesting\\ddt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4972A662-9976-4D05-99ED-1A502F1E2E57}|NunitTesting\\NunitTesting.csproj|D:\\\u0411\u0420\u0423\\3 \u041A\u0423\u0420\u0421\\6 \u0421\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0421\\\u043B\u044011\\OS_20\\TaskPriorityCalculator\\nunittesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4972A662-9976-4D05-99ED-1A502F1E2E57}|NunitTesting\\NunitTesting.csproj|solutionrelative:nunittesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D52A4DA-AA88-48A2-81C8-7726C7FD5AC5}|TaskPriorityCalculator\\TaskPriorityCalculator.csproj|D:\\\u0411\u0420\u0423\\3 \u041A\u0423\u0420\u0421\\6 \u0421\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0421\\\u043B\u044011\\OS_20\\TaskPriorityCalculator\\taskprioritycalculator\\taskprioritycalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D52A4DA-AA88-48A2-81C8-7726C7FD5AC5}|TaskPriorityCalculator\\TaskPriorityCalculator.csproj|solutionrelative:taskprioritycalculator\\taskprioritycalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\\u0411\u0420\u0423\\3 \u041A\u0423\u0420\u0421\\6 \u0421\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0421\\\u043B\u044011\\OS_20\\TaskPriorityCalculator\\NunitTesting\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "NunitTesting\\UnitTest1.cs",
+              "ToolTip": "D:\\\u0411\u0420\u0423\\3 \u041A\u0423\u0420\u0421\\6 \u0421\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0421\\\u043B\u044011\\OS_20\\TaskPriorityCalculator\\NunitTesting\\UnitTest1.cs",
+              "RelativeToolTip": "NunitTesting\\UnitTest1.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAA3wHkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T15:47:14.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DDT.cs",
+              "DocumentMoniker": "D:\\\u0411\u0420\u0423\\3 \u041A\u0423\u0420\u0421\\6 \u0421\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0421\\\u043B\u044011\\OS_20\\TaskPriorityCalculator\\NunitTesting\\DDT.cs",
+              "RelativeDocumentMoniker": "NunitTesting\\DDT.cs",
+              "ToolTip": "D:\\\u0411\u0420\u0423\\3 \u041A\u0423\u0420\u0421\\6 \u0421\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0421\\\u043B\u044011\\OS_20\\TaskPriorityCalculator\\NunitTesting\\DDT.cs",
+              "RelativeToolTip": "NunitTesting\\DDT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:55:15.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0411\u0420\u0423\\3 \u041A\u0423\u0420\u0421\\6 \u0421\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0421\\\u043B\u044011\\OS_20\\TaskPriorityCalculator\\NunitTesting\\Program.cs",
+              "RelativeDocumentMoniker": "NunitTesting\\Program.cs",
+              "ToolTip": "D:\\\u0411\u0420\u0423\\3 \u041A\u0423\u0420\u0421\\6 \u0421\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0421\\\u043B\u044011\\OS_20\\TaskPriorityCalculator\\NunitTesting\\Program.cs",
+              "RelativeToolTip": "NunitTesting\\Program.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAowGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:01:15.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskPriorityCalculator.csproj",
+              "DocumentMoniker": "D:\\\u0411\u0420\u0423\\3 \u041A\u0423\u0420\u0421\\6 \u0421\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0421\\\u043B\u044011\\OS_20\\TaskPriorityCalculator\\TaskPriorityCalculator\\TaskPriorityCalculator.csproj",
+              "RelativeDocumentMoniker": "TaskPriorityCalculator\\TaskPriorityCalculator.csproj",
+              "ToolTip": "D:\\\u0411\u0420\u0423\\3 \u041A\u0423\u0420\u0421\\6 \u0421\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0421\\\u043B\u044011\\OS_20\\TaskPriorityCalculator\\TaskPriorityCalculator\\TaskPriorityCalculator.csproj",
+              "RelativeToolTip": "TaskPriorityCalculator\\TaskPriorityCalculator.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-28T15:57:56.167Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
