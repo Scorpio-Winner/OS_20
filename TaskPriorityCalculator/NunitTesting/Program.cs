@@ -98,6 +98,7 @@ namespace NunitTesting
                 return TaskPriority.Low;
             }
 
+
             return TaskPriority.Medium;
         }
     }  
